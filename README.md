@@ -1,16 +1,20 @@
-## Hi there 👋
+## 自己紹介
 
-<!--
-**golem-works/golem-works** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+主に大手メーカーでLinux・Windowsサーバの運用保守に従事。
+町内会などのweb系の開発もしています。
+業務では安定稼働を重視した保守対応を、個人ではPythonやNext.jsを活かしたアプリ開発・ローカルAI構築など幅広く取り組んでいます。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 技術スタック（趣味・個人開発）
+
+- Python（スクレイピング、ソケット通信）
+- Next.js / Vercel（フロントエンド構築）
+- Docker（開発環境構築、AIサーバー運用）
+- Stable Diffusion / LLMローカル実装（RTX 5070）
+
+## 技術スタック（実務）
+
+- Linux / Windowsサーバ運用・監視
+- バッチファイル・Shellスクリプトによるログ管理
+- WordPressサイトの保守・軽微な改修
